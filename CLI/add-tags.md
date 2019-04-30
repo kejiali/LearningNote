@@ -1,4 +1,4 @@
-
+### If you need update large amount of tags for bounch of resources. 
 
 1.Edit vim ~/.aws/credentials
 2.aws ec2 create-tags --resources "instance-id" --cli-input-json file://xxx.json --profile <>
